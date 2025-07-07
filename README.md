@@ -15,7 +15,5 @@ It’s super easy and fun!
 
 ---
 
-### Current Progress:
-- Implemented **Add to cart**  
-- Implemented **View cart**
-**
+Already finished with all features
+
